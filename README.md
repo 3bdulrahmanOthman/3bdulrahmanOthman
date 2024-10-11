@@ -14,7 +14,7 @@ I'm a passionate **Front-End Developer** with over 3 years of experience, specia
 - **Tools**: Git, GitHub, Photoshop, Figma
 
 ## 🏆 My GitHub Stats
-![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-othman&show_icons=true&theme=radical)
+![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremache&show_icons=true&theme=radical)
 
 ## 💻 Some of My Best Projects
 - [Modern Responsive Dashboard](https://github.com/Supremache/front-end/tree/main/app/modern-responsive-dashboard)
