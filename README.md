@@ -18,7 +18,9 @@ I'm a passionate **Front-End Developer** with over 3 years of experience, specia
 
 ## 💻 Some of My Best Projects
 - [Modern Responsive Dashboard](https://github.com/Supremache/front-end/tree/main/app/modern-responsive-dashboard)
+- [Landing Portfolio Page](https://github.com/Supremache/front-end/tree/main/app/landing-portfolio-page)
 - [Auto Refresh Extensions](https://github.com/Supremache/chrome-extensions/tree/main/Task%20Checker)
+- [AMX Mod X Plugins](https://github.com/Supremache/amxmodx-plugins)
 - [ISTIDAFA Web Hosting UI](Comming soon...)
 
 ## 🌐 Connect with Me
