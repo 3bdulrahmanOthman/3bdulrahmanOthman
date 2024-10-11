@@ -17,8 +17,9 @@ I'm a passionate **Front-End Developer** with over 3 years of experience, specia
 ![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-othman&show_icons=true&theme=radical)
 
 ## 💻 Some of My Best Projects
-- [Modern Responsive Dashboard](https://github.com/abdulrahman-othman/modern-responsive-dashboard)
-- [ISTIDAFA Web Hosting UI](https://github.com/abdulrahman-othman/istidafa-hosting)
+- [Modern Responsive Dashboard](https://github.com/Supremache/front-end/tree/main/app/modern-responsive-dashboard)
+- [Auto Refresh Extensions](https://github.com/Supremache/chrome-extensions/tree/main/Task%20Checker)
+- [ISTIDAFA Web Hosting UI](Comming soon...)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/abdulrahman-othman-5a4a1331a)
