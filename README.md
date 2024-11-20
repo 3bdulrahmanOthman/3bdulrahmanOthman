@@ -10,7 +10,7 @@ I'm a passionate **Front-End Developer** with over 3 years of experience, specia
 ## 🔧 Tech Stack
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: React, Next.js
-- **Libraries**: Material-UI (MUI), Framer Motion
+- **Libraries**: Tailwind CSS, Material-UI (MUI), Framer Motion
 - **Tools**: Git, GitHub, Photoshop, Figma
 
 ## 🏆 My GitHub Stats
