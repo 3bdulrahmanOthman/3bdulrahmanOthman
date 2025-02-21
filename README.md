@@ -1,7 +1,7 @@
 # Hello, I'm Abdulrahman Othman 👋
 
 ## 🚀 About Me
-I'm a passionate **Front-End Developer** with over 3 years of experience, specializing in **React**, **Material-UI**, and **Framer Motion**. I love turning ideas into user-friendly web experiences that look great across devices.
+I'm a passionate **Front-End Developer** with over 2 years of experience, specializing in **React**, **Material-UI**, and **Framer Motion**. I love turning ideas into user-friendly web experiences that look great across devices.
 
 - 🌍 Based in New Cairo, Egypt
 - 🔭 Currently working on **ISTIDAFA Web Hosting Platform**
