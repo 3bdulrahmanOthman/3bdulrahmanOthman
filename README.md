@@ -14,10 +14,10 @@ I'm a Self-taught Front-End Developer specializing in React, Next.js, Open to fr
 - **Tools**: Git, GitHub, Photoshop, Figma
 
 ## 🏆 My GitHub Stats
-![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=supremache&show_icons=true&theme=radical)
+![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=3bdulrahmanOthman&show_icons=true&theme=radical)
 
 ## 💻 Some of My Best Projects
-- [Crud-Operations-Dashboard]([https://github.com/Supremache/front-end/tree/main/app/modern-responsive-dashboard](https://github.com/3bdulrahmanOthman/Crud-Operations-Dashboard))
+- [Crud-Operations-Dashboard](https://github.com/3bdulrahmanOthman/Crud-Operations-Dashboard)
 
 
 ## 🌐 Connect with Me
