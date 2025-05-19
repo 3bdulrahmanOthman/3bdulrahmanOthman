@@ -4,7 +4,6 @@
 I'm a Self-taught Front-End Developer specializing in React, Next.js, Open to freelance opportunities and always learning to stay ahead in web development. I love turning ideas into user-friendly web experiences that look great across devices.
 
 - 🌍 Based in New Cairo, Egypt
-- 🔭 Currently working on **ISTIDAFA Web Hosting Platform**
 - 🌱 Learning more about **UI/UX Design** and **Full-Stack Development**
 
 ## 🔧 Tech Stack
