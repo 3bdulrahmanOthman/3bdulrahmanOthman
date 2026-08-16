@@ -15,10 +15,6 @@ I'm a Self-taught Front-End Developer specializing in React, Next.js, Open to fr
 ## 🏆 My GitHub Stats
 ![Abdulrahman Othman's GitHub stats](https://github-readme-stats.vercel.app/api?username=3bdulrahmanOthman&show_icons=true&theme=radical)
 
-## 💻 Some of My Best Projects
-- [Crud-Operations-Dashboard](https://github.com/3bdulrahmanOthman/Crud-Operations-Dashboard)
-
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/abdulrahman-othman-5a4a1331a)
 - [3bdulrahmanOthman](https://3bdulrahmanOthman.github.io/)
