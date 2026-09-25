@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · 3bdulrahmanothman</sub></p>
 <h1>Abdulrahman Othman</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer</h2>
 <p>Self-taught Full-Stack Developer and always learning to stay ahead in web development.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Egypt</sub></p>
